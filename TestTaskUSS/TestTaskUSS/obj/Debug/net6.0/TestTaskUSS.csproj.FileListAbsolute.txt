@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\TestTaskUSS\TestTaskUSS\TestTaskUSS\bin\Debug\net6.0\TestTaskUSS.exe
+C:\Users\User\source\repos\TestTaskUSS\TestTaskUSS\TestTaskUSS\bin\Debug\net6.0\TestTaskUSS.deps.json
+C:\Users\User\source\repos\TestTaskUSS\TestTaskUSS\TestTaskUSS\bin\Debug\net6.0\TestTaskUSS.runtimeconfig.json
+C:\Users\User\source\repos\TestTaskUSS\TestTaskUSS\TestTaskUSS\bin\Debug\net6.0\TestTaskUSS.dll
+C:\Users\User\source\repos\TestTaskUSS\TestTaskUSS\TestTaskUSS\bin\Debug\net6.0\TestTaskUSS.pdb
+C:\Users\User\source\repos\TestTaskUSS\TestTaskUSS\TestTaskUSS\obj\Debug\net6.0\TestTaskUSS.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\TestTaskUSS\TestTaskUSS\TestTaskUSS\obj\Debug\net6.0\TestTaskUSS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\TestTaskUSS\TestTaskUSS\TestTaskUSS\obj\Debug\net6.0\TestTaskUSS.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\TestTaskUSS\TestTaskUSS\TestTaskUSS\obj\Debug\net6.0\TestTaskUSS.AssemblyInfo.cs
+C:\Users\User\source\repos\TestTaskUSS\TestTaskUSS\TestTaskUSS\obj\Debug\net6.0\TestTaskUSS.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\TestTaskUSS\TestTaskUSS\TestTaskUSS\obj\Debug\net6.0\TestTaskUSS.dll
+C:\Users\User\source\repos\TestTaskUSS\TestTaskUSS\TestTaskUSS\obj\Debug\net6.0\refint\TestTaskUSS.dll
+C:\Users\User\source\repos\TestTaskUSS\TestTaskUSS\TestTaskUSS\obj\Debug\net6.0\TestTaskUSS.pdb
+C:\Users\User\source\repos\TestTaskUSS\TestTaskUSS\TestTaskUSS\obj\Debug\net6.0\TestTaskUSS.genruntimeconfig.cache
+C:\Users\User\source\repos\TestTaskUSS\TestTaskUSS\TestTaskUSS\obj\Debug\net6.0\ref\TestTaskUSS.dll

@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\TestTaskUSS\TestTaskUSS\TestTaskUSS\bin\Debug\netcoreapp3.1\TestTaskUSS.exe
+C:\Users\User\source\repos\TestTaskUSS\TestTaskUSS\TestTaskUSS\bin\Debug\netcoreapp3.1\TestTaskUSS.deps.json
+C:\Users\User\source\repos\TestTaskUSS\TestTaskUSS\TestTaskUSS\bin\Debug\netcoreapp3.1\TestTaskUSS.runtimeconfig.json
+C:\Users\User\source\repos\TestTaskUSS\TestTaskUSS\TestTaskUSS\bin\Debug\netcoreapp3.1\TestTaskUSS.runtimeconfig.dev.json
+C:\Users\User\source\repos\TestTaskUSS\TestTaskUSS\TestTaskUSS\bin\Debug\netcoreapp3.1\TestTaskUSS.dll
+C:\Users\User\source\repos\TestTaskUSS\TestTaskUSS\TestTaskUSS\bin\Debug\netcoreapp3.1\TestTaskUSS.pdb
+C:\Users\User\source\repos\TestTaskUSS\TestTaskUSS\TestTaskUSS\obj\Debug\netcoreapp3.1\TestTaskUSS.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\TestTaskUSS\TestTaskUSS\TestTaskUSS\obj\Debug\netcoreapp3.1\TestTaskUSS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\TestTaskUSS\TestTaskUSS\TestTaskUSS\obj\Debug\netcoreapp3.1\TestTaskUSS.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\TestTaskUSS\TestTaskUSS\TestTaskUSS\obj\Debug\netcoreapp3.1\TestTaskUSS.AssemblyInfo.cs
+C:\Users\User\source\repos\TestTaskUSS\TestTaskUSS\TestTaskUSS\obj\Debug\netcoreapp3.1\TestTaskUSS.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\TestTaskUSS\TestTaskUSS\TestTaskUSS\obj\Debug\netcoreapp3.1\TestTaskUSS.dll
+C:\Users\User\source\repos\TestTaskUSS\TestTaskUSS\TestTaskUSS\obj\Debug\netcoreapp3.1\TestTaskUSS.pdb
+C:\Users\User\source\repos\TestTaskUSS\TestTaskUSS\TestTaskUSS\obj\Debug\netcoreapp3.1\TestTaskUSS.genruntimeconfig.cache
